@@ -1,5 +1,5 @@
 <?php
-// Main Branch
+// my branch
 if ( ! defined( 'ABSPATH' ) ) {
 	exit; // Exit if accessed directly.
 }
