@@ -21,6 +21,8 @@ function emerce_variation_swatches() {
 	return \Emerce\VariationSwatches\Plugin::instance();
 }
 
+// haahah
+
 register_deactivation_hook( __FILE__, 'emerce_variation_swatches_deactivate' );
 
 /**
