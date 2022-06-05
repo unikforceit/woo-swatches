@@ -3,6 +3,7 @@
 if ( ! defined( 'ABSPATH' ) ) {
 	exit; // Exit if accessed directly.
 }
+// haha
 
 define( 'EMERCE_VARIATION_SWATCHES_FILE', __FILE__ );
 
